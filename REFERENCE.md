@@ -532,7 +532,7 @@
 | `catch_phrase` | Profound transitional methodology, Synergized explicit array, Fully-configurable zero tolerance synergy |
 | `name` | King-Walter, Schaefer LLC, Will-Price |
 | `position` | Associate Division Secretary, General Sales Director, Sales President |
-| `suffix` | Inc, Group, Inc |
+| `suffix` | Inc, and Sons, LLC, Group |
 
 ## FFaker::CompanyIT
 
@@ -547,7 +547,7 @@
 | Method | Example |
 | ------ | ------- |
 | `name` | Hane-Keeling, Hintz-Blanda, Schroeder Ab |
-| `suffix` | Ab, Ab, Ab |
+| `suffix` | AB, Aktiebolag, Ab |
 
 ## FFaker::Conference
 
